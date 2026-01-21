@@ -10,6 +10,13 @@ The focus is on:
 - Spatial vs velocity-space clustering
 
 ---
+histof_pruebas_con_vrho_0.23_662.png
+
+### Distribution of data previous to apply DBSCAN
+![Histogram of particles in epsilon for KNN](histof_pruebas_con_vrho_0.23_662.png)
+*This gives separation between groups before apply DBSCAN, to get the hyperparameter epsilon*
+
+---
 
 ## 📊 DBSCAN Clustering Results
 
